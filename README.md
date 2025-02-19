@@ -1,12 +1,12 @@
-# MathOnline
+# Math Online
 
-Welcome to MathOnline, your online calculator built with vanilla javascript!
+Welcome to Math Online, your online calculator built with vanilla Javascript!
 
 <img src="assets/images/mathonline-demo.png" alt="MathOnline Screenshot" width="400"/>
 
-MathOnline is a lightweight web-based calculator designed to handle basic arithmetic operations. Built with vanilla JavaScript, this project demonstrates clean and efficient DOM manipulation and provides a smooth user experience with a responsive interface. No frameworks or external libraries are used.
+Math Online is a lightweight web-based calculator designed to handle basic arithmetic operations. Built with vanilla JavaScript, this project demonstrates clean and efficient DOM manipulation and provides a smooth user experience with a responsive interface. No frameworks or external libraries are used.
 
-🔗 [go to MathOnline](https://math-online.netlify.app/)
+🔗 [go to Math Online](https://math-online.netlify.app/)
 
 ## Features
 
