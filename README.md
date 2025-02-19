@@ -2,7 +2,7 @@
 
 Welcome to MathOnline, your online calculator built with vanilla javascript!
 
-![Screenshot 2024-02-15 183137](https://github.com/alepuliani/mathonline/assets/images/mathonline-demo.png)
+![MathOnline Demo](assets/images/mathonline-demo.png)
 
 MathOnline is a lightweight web-based calculator designed to handle basic arithmetic operations. Built with vanilla JavaScript, this project demonstrates clean and efficient DOM manipulation and provides a smooth user experience with a responsive interface. No frameworks or external libraries are used.
 
